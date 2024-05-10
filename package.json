@@ -21,6 +21,6 @@
     }
   ],
   "dependencies": {
-    "pdf2json": "^0.7.1"
+    "pdf2json": "3.1.2"
   }
 }
